@@ -36,7 +36,7 @@ Backend AI Engineer • Python Developer • Cloud Enthusiast • AI Automation 
 </p>
 
 <p align="center">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=openai,langchain,pinecone,playwright" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=supabase,langchain,pinecone,playwright" />
 </p>
   
 ---
