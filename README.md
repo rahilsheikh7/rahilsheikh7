@@ -49,23 +49,19 @@ Backend AI Engineer • Python Developer • Cloud Enthusiast • AI Automation 
 
 ---
 
-# 🤝 Connect With Me
+## 🤝 Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/rahilsheikh7" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="45" />
+    <img src="https://skillicons.dev/icons?i=linkedin" height="50" />
   </a>
-
-  &nbsp; • &nbsp;
-
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:rahilsheikh8267@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" height="45" />
+    <img src="https://skillicons.dev/icons?i=gmail" height="50" />
   </a>
-
-  &nbsp; • &nbsp;
-
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://rahil7sheikh.vercel.app" target="_blank">
-    <img src="https://skillicons.dev/icons?i=vercel" height="45" />
+    <img src="https://skillicons.dev/icons?i=vercel" height="50" />
   </a>
 </p>
 
