@@ -1,16 +1,10 @@
-<h1 align="center">Hi 👋, I'm Rahil Sheikh</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width="35">, I'm Rahil Sheikh</h1>
 
 <h3 align="center">
 Backend AI Engineer • Python Developer • Cloud Enthusiast • AI Automation Builder
 </h3>
 
-<p align="center">
-I build scalable backend systems, AI-powered applications, and cloud-native solutions using Python, FastAPI, Node.js, AWS, and Large Language Models.
-</p>
-
 ---
-
-## 🚀 About Me
 
 💻 Backend AI Engineer with 2+ years of professional experience building production-ready backend applications, REST APIs, and AI-driven solutions.
 
@@ -20,110 +14,30 @@ I build scalable backend systems, AI-powered applications, and cloud-native solu
 
 🤖 I enjoy building intelligent applications powered by OpenAI, Anthropic, LangChain, RAG, workflow automation, and cloud infrastructure.
 
-🌱 Currently exploring
-
-- Advanced AI Agents
-- Multi-Agent Systems
-- Kubernetes
-- MLOps
-- Distributed Systems
-
 ---
 
 ## 💼 Current Focus
 
-- 🚀 AI Application Development
-- ⚙️ Backend Architecture
-- ☁️ AWS Cloud
-- 🤖 LLM Integrations
-- 🔄 Workflow Automation
-- 📊 Scalable APIs
-- 🧠 RAG Applications
-- 🛠 Developer Tools
+![AI](https://img.shields.io/badge/AI%20Applications-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Backend](https://img.shields.io/badge/Backend%20Architecture-000000?style=for-the-badge&logo=fastapi)
+![AWS](https://img.shields.io/badge/AWS%20Cloud-232F3E?style=for-the-badge&logo=amazonaws)
+![LLMs](https://img.shields.io/badge/LLM%20Integrations-10A37F?style=for-the-badge&logo=openai)
+![Automation](https://img.shields.io/badge/Workflow-Automation-blue?style=for-the-badge&logo=n8n)
+![APIs](https://img.shields.io/badge/Scalable%20APIs-009688?style=for-the-badge&logo=fastapi)
+![RAG](https://img.shields.io/badge/RAG-Applications-purple?style=for-the-badge)
+![Developer%20Tools](https://img.shields.io/badge/Developer%20Tools-181717?style=for-the-badge&logo=github)
 
 ---
 
-# 🛠 Tech Stack
+## 🛠 Tech Stack
 
-### Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,javascript,typescript,nodejs" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,fastapi,django,flask,nodejs,javascript,typescript,react,nextjs,tailwind,aws,gcp,docker,terraform,postgres,mysql,mongodb,redis,git,github,gitlab,vscode,postman,npm&perline=8" />
 </p>
 
-### Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=fastapi,django,flask,nodejs" />
+<p align="center">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=openai,langchain,pinecone,playwright" />
 </p>
-
-- REST APIs
-- AsyncIO
-- Microservices
-- WebSockets
-
----
-
-### AI & LLM
-
-- OpenAI
-- Anthropic
-- LangChain
-- Retrieval-Augmented Generation (RAG)
-- AI Automation
-- n8n
-- Prompt Engineering
-
----
-
-### Cloud
-
-<p>
-<img src="https://skillicons.dev/icons?i=aws,gcp,terraform,docker" />
-</p>
-
-AWS Services
-
-- Lambda
-- ECS
-- S3
-- SQS
-- DynamoDB
-- CloudWatch
-
----
-
-### Databases
-
-<p>
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis" />
-</p>
-
-Also worked with
-
-- Pinecone
-- ChromaDB
-- Weaviate
-
----
-
-### Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" />
-</p>
-
----
-
-### Automation & Scraping
-
-- Playwright
-- Puppeteer
-- Web Scraping
-- Workflow Automation
-- Background Jobs
-- Bull Queue
-- Redis
   
 ---
 
@@ -148,7 +62,7 @@ Also worked with
 </a>
 
 <a href="https://rahil7sheikh.vercel.app">
-🌐 Portfolio
+<img src="https://skillicons.dev/icons?i=planetscale" />
 </a>
 
 </p>
