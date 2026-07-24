@@ -127,51 +127,11 @@ Also worked with
   
 ---
 
-# 📈 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=rahilsheikh7&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahilsheikh7&layout=compact&theme=github_dark&hide_border=true"/>
-
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=rahilsheikh7&theme=github-dark&hide_border=true"/>
-</p>
-
----
-
 # 📊 Activity Graph
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=rahilsheikh7&theme=github-compact"/>
 </p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=rahilsheikh7&theme=algolia&no-frame=true&row=1&column=7"/>
-</p>
-
----
-
-# 📚 Currently Learning
-
-- AI Agents
-- MCP Servers
-- Advanced RAG
-- Kubernetes
-- MLOps
-- Distributed Systems
-- Event-Driven Architecture
 
 ---
 
@@ -192,23 +152,6 @@ Also worked with
 </a>
 
 </p>
-
----
-
-# 💬 Ask Me About
-
-- Backend Development
-- Python
-- FastAPI
-- AI Applications
-- LLM Integrations
-- LangChain
-- AWS
-- REST APIs
-- Microservices
-- Serverless Architecture
-- Workflow Automation
-- Cloud Deployments
 
 ---
 
