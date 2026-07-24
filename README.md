@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width="35">, I'm Rahil Sheikh</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width="35"> I'm Rahil Sheikh</h1>
 
 <h3 align="center">
 Backend AI Engineer • Python Developer • Cloud Enthusiast • AI Automation Builder
@@ -51,26 +51,26 @@ Backend AI Engineer • Python Developer • Cloud Enthusiast • AI Automation 
 
 # 🤝 Connect With Me
 
-<p align="left">
+<p align="center">
+  <a href="https://www.linkedin.com/in/rahilsheikh7" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="45" />
+  </a>
 
-<a href="https://www.linkedin.com/in/rahilsheikh7">
-<img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
+  &nbsp; • &nbsp;
 
-<a href="rahilsheikh8267@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" />
-</a>
+  <a href="mailto:rahilsheikh8267@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="45" />
+  </a>
 
-<a href="https://rahil7sheikh.vercel.app">
-<img src="https://skillicons.dev/icons?i=planetscale" />
-</a>
+  &nbsp; • &nbsp;
 
+  <a href="https://rahil7sheikh.vercel.app" target="_blank">
+    <img src="https://skillicons.dev/icons?i=vercel" height="45" />
+  </a>
 </p>
 
 ---
 
 <p align="center">
-
 ⭐ If you like my work, consider giving a star to my repositories!
-
 </p>
